@@ -11,7 +11,7 @@ module.exports = {
   PORT: parseInt(process.env.PORT) || 2605,
   
   //Enter your Github username here (Compulsory unless you have a valid premium key)
-  GITHUB_USERNAME: process.env.GITHUB_USERNAME || '',
+  GITHUB_USERNAME: process.env.GITHUB_USERNAME || 'afroheczyy',
   
   //Enter your desired bot password here. Users will be asked for this password when they try to connect to your bot via telegram or web
   //Must be numbers only and a total of 8 digits
